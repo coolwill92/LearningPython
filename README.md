@@ -67,3 +67,11 @@ manually
 
 - cntrl + left click shows you where a function is defined
 
+- Bottom right shows what branch and you can add branches from here
+local (terminal) or remote (whats on github). File name changin from white 
+to blue means changes have been made. 
+
+- Use the git toolbar across the top (Rollbacks are handy)
+
+
+
